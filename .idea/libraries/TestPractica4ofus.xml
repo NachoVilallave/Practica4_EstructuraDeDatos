@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestPractica4ofus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TestPractica4ofus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
